@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\GameCharacter\\GameCharacter.csproj": {}
+    "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\coding-challenge-oop-Duck413\\GameCharacter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\GameCharacter\\GameCharacter.csproj": {
+    "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\coding-challenge-oop-Duck413\\GameCharacter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\GameCharacter\\GameCharacter.csproj",
+        "projectUniqueName": "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\coding-challenge-oop-Duck413\\GameCharacter.csproj",
         "projectName": "GameCharacter",
-        "projectPath": "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\GameCharacter\\GameCharacter.csproj",
+        "projectPath": "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\coding-challenge-oop-Duck413\\GameCharacter.csproj",
         "packagesPath": "C:\\Users\\Peder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\GameCharacter\\obj\\",
+        "outputPath": "C:\\Users\\Peder\\Data og kommunikation\\02. H1\\Modul 05, Objektorienteret programmering\\Game Character (mit valgte projekt)\\coding-challenge-oop-Duck413\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
