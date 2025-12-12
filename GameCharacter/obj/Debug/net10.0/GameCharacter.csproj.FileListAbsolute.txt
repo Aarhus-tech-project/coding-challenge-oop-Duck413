@@ -1,0 +1,14 @@
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\bin\Debug\net10.0\GameCharacter.exe
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\bin\Debug\net10.0\GameCharacter.deps.json
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\bin\Debug\net10.0\GameCharacter.runtimeconfig.json
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\bin\Debug\net10.0\GameCharacter.dll
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\bin\Debug\net10.0\GameCharacter.pdb
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.AssemblyInfoInputs.cache
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.AssemblyInfo.cs
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.dll
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\refint\GameCharacter.dll
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.pdb
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\GameCharacter.genruntimeconfig.cache
+C:\Users\Peder\Data og kommunikation\02. H1\Modul 05, Objektorienteret programmering\Game Character (mit valgte projekt)\GameCharacter\obj\Debug\net10.0\ref\GameCharacter.dll
