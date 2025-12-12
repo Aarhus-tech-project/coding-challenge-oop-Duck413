@@ -16,11 +16,11 @@ public class RunGame
         creator.CreateCustomCharacter(); 
     }
 
-    public void AllAreDead()
+    public void MakeAllUndead()
     {
         foreach (CharacterModel c in _list.AllCharacters)
         {
-            if (!(c.Category is Undead))
+            if (c.Category is not Undead)
             {
                 c.Health -= 100;
                 c.CharacterDeath();
@@ -38,7 +38,7 @@ public class RunGame
             Console.WriteLine($"{c.Name} the {c.Category} {c.Species} {c.Occupation} has {c.Health} health.");
         }
         Console.WriteLine("\n-----THE GAME TAKES PLACE-----\n");
-        AllAreDead();
+        MakeAllUndead();
         Console.WriteLine("\n-----ALL PLAYERS ARE UNDEAD-----\n");
     }
 }

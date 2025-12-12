@@ -30,8 +30,8 @@ public class MakeCharacter
     {
         Console.WriteLine("\nDo you wish to create your own character?\n" +
             "Press Y to create a character, or any other key to only use the predefined characters:");
-        string customCreate = Console.ReadLine();
-        if (customCreate.ToUpper() != "Y")
+        ConsoleKey key = Console.ReadKey(true).Key;
+        if (key != ConsoleKey.Y)
         {
             return;
         }
