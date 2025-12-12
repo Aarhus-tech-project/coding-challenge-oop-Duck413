@@ -11,6 +11,7 @@ public class MakeCharacter
     
     public void CreatePredefinedCharacters()
     {
+        //Jeg er ved at kigge på hvordan dette gøres på en nemmere måde så linjer af kode ikke skal gentages
         CharacterModel character = new("Wizard", new Magical(), new Human(), new Necromancer());
         _list.AllCharacters.Add(character);
 
